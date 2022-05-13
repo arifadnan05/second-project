@@ -1,0 +1,150 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.name-section{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 130px;
+    
+}
+.first-img{
+    width: 40%;
+    float: right;
+    margin-right: 10%;
+}
+.name-section h2{
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 50px;
+}
+.name1{
+    font-size: 40px;
+    color: #CD3762;
+    font-weight: 800;
+}
+.name-section p{
+    margin-top: 35px;
+    line-height: 25px;
+    color: #6E6061;
+}
+button{
+    border-style: none;
+    margin-top: 30px;
+}
+.second-banner{
+    margin-top: 100px;
+}
+a{
+    text-decoration: none;
+    background-color: #CD3762;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+}
+.second-banner{
+    background-image: url(images/biography-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.first-img1{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+}
+.name-section1{
+    width: 40%;
+    float: right;
+    margin-right: 6%;
+    margin-top: 130px;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.text{
+    margin-top: 170px;
+    margin-bottom: 50px;
+}
+.text h1{
+    text-align: center;
+    font-size: 40px;
+}
+.latest-img{
+    display: flex;
+    margin-left: 6%;
+}
+.latest-img1{
+    width: 25%;
+    margin-left: 5%;
+}
+.client-say{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    
+}
+.client-section h1{
+    font-size: 40px;
+    margin-bottom: 70px;
+}
+.client-section h3{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.client-section h6{
+    font-size: 16px;
+    font-weight: 400;
+    color:#6E6061;
+    margin-bottom: 80px;
+}
+.heda{
+    color: #000000;
+    line-height: 25px;
+    margin-bottom: 50px;
+}
+.massage-area{
+    background-color: #CD3762;
+    color: #fff;
+    width: 30%;
+    margin-left: 32%;
+    padding: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.fotter-p{
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: 200;
+}
+.fotter-p-1{
+    font-size: 20px;
+}
+.fotter{
+    text-align: center;
+    color: #6E6061;
+    margin-bottom: 10px;
+}
